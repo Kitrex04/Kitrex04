@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi!🐸​🐸​ My name is Alejandro and I'm a Fullstack Developer, from ​Venezuela ⌃⌃</h2>
+<h2 data-importer="text" align="left">Hey!!🐱​🐱​​ My name is Alejandro and I'm a Fullstack Developer, from ​Venezuela ⌃-⌃</h2>
 
 ###
 
@@ -35,13 +35,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitrex04/Kitrex04/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitrex04/Kitrex04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kitrex04/Kitrex04/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
