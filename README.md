@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hey!!🐱​🐱​​ My name is Alejandro and I'm a Fullstack Developer, from ​Venezuela ⌃-⌃</h2>
+<h2 data-importer="text" align="left">Hey!!🐱​🐱​​ My name is Alejandro and I'm a Fullstack Developer ⌃-⌃</h2>
 
 ###
 
