@@ -12,6 +12,13 @@
 
 <br/>
 
+<!-- Botón de Portafolio -->
+<a href="https://portfolio-h7gq1kjr9-kitrex.vercel.app/#hero" target="_blank">
+  <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=kitrex04&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
 <img src="https://img.shields.io/github/followers/kitrex04?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
 <img src="https://img.shields.io/github/stars/kitrex04?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
