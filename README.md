@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 <!-- Animated Living Identity Banner -->
